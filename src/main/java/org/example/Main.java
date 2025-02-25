@@ -21,12 +21,6 @@ public class Main {
         System.out.println(cups + " cups");
         tablespoons = cups * 16;
         System.out.println(tablespoons + " tablespoons");
-        
-
-
-
-
-
-
+    
     }
 }
